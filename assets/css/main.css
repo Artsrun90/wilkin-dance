@@ -1,0 +1,201 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    top: 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    background-image: linear-gradient(white, #c4e7f7, white);
+}
+::placeholder {
+    color: rgb(255, 255, 255);
+  }
+
+.menu{
+    background-color: #73CCF2;
+    height: 82px;
+}
+.menu a{
+    color: white;
+}
+.menu a:hover{
+    color: #FFE858;
+}
+.soc img:hover{
+    color: #FFE858;
+    cursor: pointer;
+}
+.navbar-nav{
+   margin-top: 30px;
+}
+.logo{
+    margin-top: -15px;
+}
+.soc{
+    padding-left: 12px;
+}
+
+.btn{
+    border: 2px solid #FFE858;
+    box-sizing: border-box;
+    border-radius: 75px;
+    color: #FFE858;
+    padding: 8px 32px;
+}
+.btn:hover{
+    color: white;
+    background-color: #FFE858;
+}
+.nav-center{
+    position: absolute;
+    height: 70px;
+    width: 162px;
+    background-color: #73CCF2;
+    border-radius: 27px;
+    top: 33px;
+    left: 605px;
+    z-index: -1;
+}
+.wilkidance-body{
+    position: absolute;
+    z-index: -10;
+}
+.wilkin-photo-1{
+    width: 450px;
+    margin-top: 30px;
+    margin-left: -120px;
+}
+.fon1{
+    width: 765px;
+    margin-left: 56%;
+}
+.fon2{
+    width: 157px;
+    margin-left: 125%;
+    margin-top: -30%;
+}
+.title{
+    color: #02B3FF;
+    left: 0px;
+    top: 42px;
+    margin-left: 184px;
+    font-weight: 400;
+    font-size: 24px;
+    width: 438px;
+}
+.title h1{
+    width: 577px;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 119.9%;
+    letter-spacing: 0.165em;
+    text-shadow: 0px 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+.olivero-photo{
+    position: absolute;
+    background-color: white;
+    width: 1113px;
+    height: 616px;
+    top: 612px;
+    left: 134px;
+    border-radius: 27px;
+    z-index: 1;
+}
+
+.olivero-photo img{
+    margin: 50px auto 50px 20px;
+}
+.olivero-text h1{
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.olivero-text li{
+    color: #81D9FF;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 22px;
+    margin-top: 20px;
+}
+.olivero-text li span{
+    color: #000000;
+    font-size: 18px;
+}
+.square {
+    height: 28px;
+    width: 26px;
+    background-color: #FFE858;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+
+footer{
+    background: #02B3FF;
+    height: auto;
+    margin-top: 600px;
+    margin-bottom: 0px;
+    opacity: 50%;
+    color: white;
+  }
+.footer h2{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+}  
+.footer h3{
+    font-size: 14px;
+    line-height: 17px;
+}
+.footer h2:nth-child(3){
+    margin-top: 100px;
+}  
+.footer h3:nth-child(4){
+    font-size: 18px;
+}  
+.footer-left{
+    margin-top: 70px;
+}
+.footer-right input{
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    outline: none;
+    color: white;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.send{
+    border: none;
+    background-color: white;
+    height: 69px;
+    width: 550px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #02B3FF;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+.send:hover{
+    color: #02B3FF;
+    background-color: white;
+    transition: transform .3s;
+    transform: scale(1.01);  
+}
+.checkbox-f{
+    margin-top: -40px;
+}
+.checkbox-label{
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+}
+
+
+
+
+@media (min-width: 992px) {
+
+}
